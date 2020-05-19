@@ -37,5 +37,11 @@ def getPhoneNumber(s):
 str='this is my mob no +917272727272'
 print(getPhoneNumber(str))
 
+<<<<<<< HEAD
 
 print('this is master branch')
+=======
+print('this is test branch')
+
+print('new test for checkout branching')
+>>>>>>> testbranch
